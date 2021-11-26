@@ -1,0 +1,2 @@
+<!-- <option value="Male" {{$pengguna->jk_pengguna=='Male' ? 'selected' : ''}}>Male</option> -->
+                                <!-- <option value="Female" {{$pengguna->jk_pengguna=='Female' ? 'selected' : ''}}>Female</option> -->
